@@ -1,9 +1,10 @@
 this repo is for my automation practive 
 
-i statured enauto self study on 25th og june
+i statured enauto self study on 25th og june in afternoon
 
 plamn is to complete it by september
 adding a line for fastforward merge
 adding a line for fastforward merge
+this is going to be confilict line
 
 
